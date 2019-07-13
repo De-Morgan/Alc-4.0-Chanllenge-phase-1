@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alc 4 phase 1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_alc">Welcome to Alc 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="name">Michael Adeyemo</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="email_michael">Email: michaeladesola1410@gmail.com</string>
+    <string name="phone_number">Phone number: 2348063547362</string>
+    <string name="slack_username">Slack Username: @DeMorgan</string>
+</resources>
